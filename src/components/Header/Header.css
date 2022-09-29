@@ -1,17 +1,13 @@
-.header{
-    background-color: #1C2B35;
-    height: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-   padding: 0 140px;
+.navbar{
+    background-color: rgb(14, 59, 77);
+    
 }
-.header a{
-    text-decoration: none;
+.navbar a{
+    
     color: #ffffff;
     font-size: 17px;
     margin-left: 30px;
 }
-.header a:hover{
-    color: rgb(14, 59, 77);
+.navbar a:hover{
+    color: #ffffff;
 }

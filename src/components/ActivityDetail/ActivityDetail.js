@@ -18,7 +18,9 @@ const  handleAddTimeToCart=(activity)=>{
     setCart(newCart);
 }
     return (
+       
         <div className='container'>
+          
            <div className='activity-container'>
           {
             activities.map(activity=><Activity

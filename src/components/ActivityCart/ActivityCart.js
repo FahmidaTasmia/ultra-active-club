@@ -45,11 +45,10 @@ const ActivityCart = (props) => {
            <div className='break-time'>
             <p>Add A Break</p>
             <div className='btn-TimeList'>
-
-           <button onClick={handleTimeBreak} className='btn-timeCount'>10s</button>
-           <button onClick={handleTimeBreak} className='btn-timeCount'>20s</button>
-           <button onClick={handleTimeBreak} className='btn-timeCount'>30s</button>
-           <button onClick={handleTimeBreak} className='btn-timeCount'>40s</button>
+       <input onClick={handleTimeBreak}  className='btn-timeCount' type="button" value="10"/>
+       <input onClick={handleTimeBreak}  className='btn-timeCount' type="button" value="20" />
+       <input onClick={handleTimeBreak}  className='btn-timeCount' type="button" value="30" />
+       <input onClick={handleTimeBreak}  className='btn-timeCount' type="button" value="40" />
             </div>
            </div>
           

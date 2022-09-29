@@ -37,9 +37,21 @@ const ActivityCart = (props) => {
 
            <div className='break-time'>
             <p>Add A Break</p>
+            <div className='btn-TimeList'>
+
+           <button className='btn-timeCount'>10s</button>
+           <button className='btn-timeCount'>20s</button>
+           <button className='btn-timeCount'>30s</button>
+           <button className='btn-timeCount'>40s</button>
+            </div>
            </div>
           
+          <p>Exercise Details</p>
            <button className='btn-time'>ExerciseTime:  {total} Minute</button>
+        
+           <button className='btn-time'>BreakTime:     {total} Second</button>
+
+           <button className='btn-active'> Activity Complete</button>
         </div>
     );
 };

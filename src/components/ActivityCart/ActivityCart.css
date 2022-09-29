@@ -4,11 +4,12 @@
     /* background-color: rgb(14, 59, 77); */
 }
 .btn-time{
-    padding: 10px 20px;
+    padding: 10px 25px;
     border: 1px solid #fff;
     color: #fff;
     background-color: rgb(14, 59, 77);
     border-radius: 10px;
+    margin-top: 10px;
 }
 .personal-info{
    align-items: center;
@@ -27,5 +28,30 @@
     grid-template-columns: repeat(3,1fr);
     background-color: rgba(13, 75, 100, 0.434);
     margin: 10px;
+    border-radius: 10px;
+}
+.btn-timeCount{
+    margin-right: 5px;
+    border-radius: 50%;
+    padding: 15px;
+    background-color: rgb(14, 59, 77);
+    color: #fff;
+    border: none;
+    
+}
+.btn-TimeList{
+    background-color: rgba(13, 75, 100, 0.434);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 15px 0;
+   
+}
+
+.btn-active{
+    width: 100%;
+    background-color: #fff;
+    padding: 10px;
+    color: rgb(14, 59, 77);
+    margin-top: 30px;
     border-radius: 10px;
 }

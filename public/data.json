@@ -6,7 +6,7 @@
       "img": "https://img.freepik.com/free-photo/young-concentrated-athlete-woman-doing-exercises-with-dumbbell_171337-13925.jpg?w=2000",
       "age": 35,
       "name": "Dumble",
-      "time": "26m",
+      "time": 26,
       "gender": "male",
       "about": "Exercitation culpa eiusmod velit ex Lorem cillum fugiat eiusmod et eiusmod minim ad. Dolore sunt anim mollit Lorem ut qui elit occaecat."
     },
@@ -17,7 +17,7 @@
       "img": "https://image.shutterstock.com/image-photo/woman-exercise-workout-gym-fitness-260nw-749969473.jpg",
       "age": 38,
       "name": "Oconnor Davis",
-      "time": "30m",
+      "time": 30,
       "gender": "male",
       "about": "Exercitation culpa eiusmod velit ex Lorem cillum fugiat eiusmod et eiusmod minim ad. Dolore sunt anim mollit Lorem ut qui elit occaecat."
     },
@@ -28,7 +28,7 @@
       "img": "https://www.shape.com/thmb/BOj-iGX65uTmBKdT6LxW7m49EQw=/735x0/squat-GettyImages-1004449544-2000-f72d11a72ed84c1885ccbeed1ccaa3c1.jpg",
       "age": 39,
       "name": "Bryant Pollard",
-      "time": "23m",
+      "time": 23,
       "gender": "male",
       "about": "Commodo aliquip velit quis nisi consequat amet ex Lorem ad Lorem reprehenderit. Dolore ut amet elit quis ad aute exercitation excepteur ea quis."
     },
@@ -39,7 +39,7 @@
       "img": "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgxMTU4NTQ3MTA1NjYw/75-hard-challenge-jpg.jpg",
       "age": 36,
       "name": "Weber Hogan",
-      "time": "16m",
+      "time": 16,
       "gender": "male",
       "about": "Dolor sint fugiat commodo esse pariatur magna quis. Aute veniam qui commodo et reprehenderit labore nisi incididunt aliquip elit."
     },
@@ -50,7 +50,7 @@
       "img": "https://parade.com/.image/t_share/MTkwNTgxMTA1MTI5ODI1NDA1/best-workouts-for-weight-loss02-jpg.jpg",
       "age": 24,
       "name": "Hernandez Decker",
-      "time": "26m",
+      "time": 26,
       "gender": "male",
       "about": "Id qui et pariatur magna amet in. Irure sunt sint ad cupidatat veniam. Dolor est id eu pariatur elit magna sit laboris consectetur."
     },
@@ -61,7 +61,7 @@
       "img": "https://content.active.com/Assets/Active.com+Content+Site+Digital+Assets/Fitness/Galleries/10+Fitness+Tips/Muscle-confusion-is-the-only-way-to-go..jpg",
       "age": 25,
       "name": "Bette Wilcox",
-      "time": "19m",
+      "time":19,
       "gender": "female",
       "about": "Nisi laboris nulla proident mollit dolore non adipisicing sit duis. Enim voluptate consectetur aliqua exercitation incididunt tempor."
     },
@@ -72,7 +72,7 @@
       "img": "https://us.123rf.com/450wm/sidelnikov/sidelnikov1907/sidelnikov190700304/127411496-doing-trx-exercises-young-athletic-woman-in-sports-clothing-training-legs-with-trx-fitness-straps-in.jpg?ver=6",
       "age": 26,
       "name": "Odessa Odom",
-      "time": "30m",
+      "time": 30,
       "gender": "female",
       "about": "Nulla voluptate tempor excepteur adipisicing est. Est qui laboris sunt nulla anim sit aute tempor ut ut aliquip. Et dolor minim tempor."
     },
@@ -83,7 +83,7 @@
       "img": "https://st.depositphotos.com/1062035/4011/i/950/depositphotos_40111699-stock-photo-fitness-with-dumbbells.jpg",
       "age": 26,
       "name": "Odessa Odom",
-      "time": "30m",
+      "time": 30,
       "gender": "female",
       "about": "Nulla voluptate tempor excepteur adipisicing est. Est qui laboris sunt nulla anim sit aute tempor ut ut aliquip. Et dolor minim tempor."
     },
@@ -94,7 +94,7 @@
       "img": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1536,c_limit/801cde73-17ec-4d86-872f-74a35b365355/what-are-the-health-benefits-of-exercise.jpg",
       "age": 26,
       "name": "Odessa Odom",
-      "time": "30m",
+      "time": 29,
       "gender": "female",
       "about": "Nulla voluptate tempor excepteur adipisicing est. Est qui laboris sunt nulla anim sit aute tempor ut ut aliquip. Et dolor minim tempor."
     }

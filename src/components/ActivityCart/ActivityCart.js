@@ -1,8 +1,15 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { addToDb } from '../../utilities/Utility';
 import './ActivityCart.css'
 
 const ActivityCart = (props) => {
     const {cart}=props;
+    const [leisureTime, setLeisureTime]=useState([]);
+
+    const handleTimeBreak=(e)=>{
+        setLeisureTime(e.target.value);
+        addToDb(e.target.value);
+    }
   let total =0;
   for(const activity of cart){
     total=total+activity.time;
@@ -39,17 +46,17 @@ const ActivityCart = (props) => {
             <p>Add A Break</p>
             <div className='btn-TimeList'>
 
-           <button className='btn-timeCount'>10s</button>
-           <button className='btn-timeCount'>20s</button>
-           <button className='btn-timeCount'>30s</button>
-           <button className='btn-timeCount'>40s</button>
+           <button onClick={handleTimeBreak} className='btn-timeCount'>10s</button>
+           <button onClick={handleTimeBreak} className='btn-timeCount'>20s</button>
+           <button onClick={handleTimeBreak} className='btn-timeCount'>30s</button>
+           <button onClick={handleTimeBreak} className='btn-timeCount'>40s</button>
             </div>
            </div>
           
           <p>Exercise Details</p>
            <button className='btn-time'>ExerciseTime:  {total} Minute</button>
         
-           <button className='btn-time'>BreakTime:     {total} Second</button>
+           <button className='btn-time'>BreakTime:     {leisureTime} Second</button>
 
            <button className='btn-active'> Activity Complete</button>
         </div>
